@@ -43,6 +43,11 @@ export default function Navbar() {
                     Form
                   </Link>
                 </li>
+                <li className="nav-item">
+                  <Link to="/" className="nav-link">
+                    Home
+                  </Link>
+                </li>
               </ul>
             </Offcanvas.Body>
           </Offcanvas>
